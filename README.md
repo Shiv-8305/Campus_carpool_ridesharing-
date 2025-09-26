@@ -11,7 +11,6 @@ A ride-sharing platform designed to connect students for long-distance travel, e
 - **Ride Management**: Post, search, and book rides with detailed information.
 - **Driver Profiles**: View Driver side portal also.
 - **Dashboard**: Manage users, rides, driver details and monitor platform activity.
-co
 ---
 
 ## 🛠️ Tech Stack
@@ -47,6 +46,7 @@ co
 5. Access the application:
 
      Open your browser and go to http://localhost/Campus_carpool_ridesharing-
+
 
 
 
