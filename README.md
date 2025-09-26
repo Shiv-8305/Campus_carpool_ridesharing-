@@ -7,11 +7,11 @@ A ride-sharing platform designed to connect students for long-distance travel, e
 
 ## ✨ Features
 
-- **Secure Authentication**: User registration and login with email verification.
+- **Secure Authentication**: User registration and login.
 - **Ride Management**: Post, search, and book rides with detailed information.
 - **Driver Profiles**: View Driver side portal also.
-- **Admin Dashboard**: Manage users, rides, and monitor platform activity.
-
+- **Dashboard**: Manage users, rides, driver details and monitor platform activity.
+co
 ---
 
 ## 🛠️ Tech Stack
@@ -47,5 +47,6 @@ A ride-sharing platform designed to connect students for long-distance travel, e
 5. Access the application:
 
      Open your browser and go to http://localhost/Campus_carpool_ridesharing-
+
 
 
