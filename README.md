@@ -44,7 +44,8 @@ A ride-sharing platform designed to connect students for long-distance travel, e
 
      Import the ride_sharing_db.sql file located in the project directory.
 
-Access the application:
+5. Access the application:
 
-Open your browser and go to http://localhost/Campus_carpool_ridesharing-
+     Open your browser and go to http://localhost/Campus_carpool_ridesharing-
+
 
