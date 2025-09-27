@@ -23,7 +23,21 @@ A ride-sharing platform designed to connect students for long-distance travel, e
 - **APIs**: [Photon API (OpenStreetMap)](https://photon.komoot.io/) for location search  
 
 ---
+## 🔮 Future Scope
 
+- **Live Ride Tracking**: Integration of a real-time map (e.g., Google Maps API or Photon API) to track the ride after it starts.
+
+- **Co-passenger Management**: Enhanced features to manage and view fellow passengers before confirming a ride.
+
+- **Integrated Payments**: Secure online payment system for hassle-free transactions.
+
+- **Midway Pickups**: Option to book or allow pickups at midway points along the route.
+
+- **Blacklist Feature**: Exclude specific users from being suggested as co-passengers for safety and comfort.
+
+- **Gender Preference**: Add preference filters for passengers and drivers to improve trust and comfort levels.
+
+---
 ### Prerequisites
 
 - [XAMPP](https://www.apachefriends.org/index.html) installed on your machine.
@@ -49,6 +63,7 @@ A ride-sharing platform designed to connect students for long-distance travel, e
 5. Access the application:
 
      Open your browser and go to http://localhost/Campus_carpool_ridesharing-
+
 
 
 
