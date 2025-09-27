@@ -2,23 +2,26 @@
 
 A ride-sharing platform designed to connect students for long-distance travel, ensuring safe, affordable, and convenient carpooling experiences.
 
-
 ---
 
 ## ✨ Features
 
-- **Secure Authentication**: User registration and login.
-- **Ride Management**: Post, search, and book rides with detailed information.
-- **Driver Profiles**: View Driver side portal also.
-- **Dashboard**: Manage users, rides, driver details and monitor platform activity.
+- **Secure Authentication**: User registration and login.  
+- **Ride Management**: Post, search, and book rides with detailed information.  
+- **Driver Profiles**: View driver details and manage ride requests.  
+- **Dashboard**: Manage users, rides, driver details, and monitor platform activity.  
+- **Smart Location Search**: Integrated with **Photon API (OpenStreetMap)** for real-time pickup and destination suggestions.  
+
 ---
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: HTML5, CSS3
-- **Backend**: PHP 8.x
-- **Database**: MySQL 8.x
-- **Development Environment**: XAMPP
+- **Frontend**: HTML5, CSS3  
+- **Backend**: PHP 8.x  
+- **Database**: MySQL 8.x  
+- **Development Environment**: XAMPP  
+- **APIs**: [Photon API (OpenStreetMap)](https://photon.komoot.io/) for location search  
+
 ---
 
 ### Prerequisites
@@ -46,6 +49,7 @@ A ride-sharing platform designed to connect students for long-distance travel, e
 5. Access the application:
 
      Open your browser and go to http://localhost/Campus_carpool_ridesharing-
+
 
 
 
