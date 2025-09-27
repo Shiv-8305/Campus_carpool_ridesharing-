@@ -62,7 +62,8 @@ A ride-sharing platform designed to connect students for long-distance travel, e
 
 5. Access the application:
 
-     Open your browser and go to http://localhost/Campus_carpool_ridesharing-
+     Open your browser and go to http://localhost/Campus_carpool_ridesharing
+
 
 
 
